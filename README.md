@@ -53,10 +53,12 @@
 
 
 ## Output:
+![Screenshot 2025-04-15 155027](https://github.com/user-attachments/assets/654e706d-b7ff-4345-87b3-7fc84fd6eea6)
 
+![Screenshot 2025-04-15 155143](https://github.com/user-attachments/assets/6c4ffd59-9f70-4c22-9ff6-b57eb79a8986)
 
-### Name:
-### Register Number: 
+### Name:RIZWAN.B
+### Register Number: 212224100051
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
